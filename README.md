@@ -1,4 +1,4 @@
-# An_Odd_Crearion(minor_preoject_1)
+# An_Odd_Crearion(minor_project_1)
 ## A Game Inspired by "When the Darkness Comes"
 
 Welcome to Empathy Quest, a unique gaming experience inspired by "When the Darkness Comes." This game aims to assist players in recognizing insecurities and disorders, fostering empathy among ordinary individuals for those who are experiencing such challenges. Through immersive storytelling and interactive gameplay, players will embark on a journey of self-reflection and understanding.
